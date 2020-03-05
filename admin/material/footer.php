@@ -1,0 +1,1 @@
+<footer class="footer">Tasteride Admin Panel</footer>
